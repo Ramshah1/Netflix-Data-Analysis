@@ -49,7 +49,7 @@ file which is also publicly available as [Netflix Movies and TV Shows on Kaggle.
 The findings of the analysis are discussed in the jupyter notebook as well as in
 a blog post here.
 
-##Licensing, Authors, and Acknowledgements
+## Licensing, Authors, and Acknowledgements
 All data credit to Netflix for data. You can find the Licensing for the data and
-other descriptive information on Kaggle as [Netflix Movies and TV Shows on Kaggle.](https://www.kaggle.com/shivamb/netflix-shows).
+other descriptive information on Kaggle at [Netflix Movies and TV Shows.](https://www.kaggle.com/shivamb/netflix-shows).
 
