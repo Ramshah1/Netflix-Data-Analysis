@@ -5,7 +5,7 @@
 2. [Project Motivation](#project-motivation)
 3. [File Description](#file-description)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Licensing, Authors, and Acknowledgements](#licensing-authors-and-acknowledgements)
 
 ## Installation
 ### Dependencies
@@ -52,4 +52,3 @@ a blog post here.
 ## Licensing, Authors, and Acknowledgements
 All data credit to Netflix for data. You can find the Licensing for the data and
 other descriptive information on Kaggle at [Netflix Movies and TV Shows.](https://www.kaggle.com/shivamb/netflix-shows).
-
