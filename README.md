@@ -47,8 +47,8 @@ file which is also publicly available as [Netflix Movies and TV Shows on Kaggle.
 
 ## Results
 The findings of the analysis are discussed in the jupyter notebook as well as in
-a blog post here.
+a blog post [here](https://medium.com/@RamshahJahangir/understanding-content-arrival-trend-on-netflix-9497ecf01290).
 
 ## Licensing, Authors, and Acknowledgements
 All data credit to Netflix for data. You can find the Licensing for the data and
-other descriptive information on Kaggle at [Netflix Movies and TV Shows.](https://www.kaggle.com/shivamb/netflix-shows).
+other descriptive information on Kaggle at [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows).
